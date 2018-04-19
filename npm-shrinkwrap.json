@@ -150,6 +150,11 @@
         "toml": "2.3.2"
       }
     },
+    "connect-flash": {
+      "version": "0.1.1",
+      "resolved": "http://registry.npm.taobao.org/connect-flash/download/connect-flash-0.1.1.tgz",
+      "integrity": "sha1-2GMPJtlaf4UfmVax6MxnMvO2qjA="
+    },
     "connect-mongo": {
       "version": "2.0.1",
       "resolved": "http://registry.npm.taobao.org/connect-mongo/download/connect-mongo-2.0.1.tgz",

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sdojndx/my-blog#readme",
   "dependencies": {
     "config-lite": "2.1.0",
+    "connect-flash": "0.1.1",
     "connect-mongo": "2.0.1",
     "ejs": "2.5.8",
     "express": "4.16.3",
