@@ -33,6 +33,7 @@ module.exports = {
     if(author){
       query.author = author
     }
+    console.log(query)
     return Post
       .find(query)
       .populate({ path:'author',model:'User' })
